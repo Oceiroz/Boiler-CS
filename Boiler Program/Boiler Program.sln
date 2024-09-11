@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boiler Program", "Boiler Program.csproj", "{33865759-9B81-4AD3-B935-6C5DAA9065EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33865759-9B81-4AD3-B935-6C5DAA9065EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33865759-9B81-4AD3-B935-6C5DAA9065EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33865759-9B81-4AD3-B935-6C5DAA9065EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33865759-9B81-4AD3-B935-6C5DAA9065EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {617219B2-E57D-455C-83F7-B45EB002B103}
+	EndGlobalSection
+EndGlobal
